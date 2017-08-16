@@ -6,4 +6,10 @@
     <string name="dump_cookie_state">Dump cookie state</string>
     <string name="clear_cookie">Clear all cookies</string>
     <string name="clear_console">Clear console</string>
+    <string name="encoded">ENCODED</string>
+    <string name="name">Name</string>
+    <string name="value">Value</string>
+    <string name="base64_encode">Base64 encode</string>
+    <string name="done">Done</string>
+    <string name="delete">Delete</string>
 </resources>
